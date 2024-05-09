@@ -4,5 +4,5 @@ veja o video: https://www.youtube.com/watch?v=FjgdFnFkgp8
 download aqui: https://www.mediafire.com/file/rgtl1mug9u56fsm/Post+Install.zip/file 
 senha do arquivo : 123
 
-Vamos relembrar que isto é apenas o basico de uma otimização basica bem feita, para um melhor desempenho você tera que fazer grub, overclock etc! otimização apenas do windows é efetiva porem com overclock, grub, affinity e benchmarks para ter certeza que é a melhor opção, ajudam e muito!
+Vamos relembrar que isto é apenas o basico de uma otimização basica bem feita, para um melhor desempenho você tera que fazer grub, overclock etc! otimização apenas do windows é efetiva porem com overclock, grub, affinity e benchmarks para ter certeza que é a melhor opção, ajudam e muito! Parem de pagar para babacas que acham que são os melhores da otimização sendo que executam apenas cmds e regedit aleatorias no seu computador sem saber o efeito!
 Bom estudo e boa otimização a todos.
