@@ -12,4 +12,5 @@ Bom estudo e boa otimização a todos.
 + Post Install: https://bit.ly/44D38I1
 + Download: https://bit.ly/3QGo0Zb (Password: 123)
 
-<img width=100% src="[https://pics.alphacoders.com/pictures/view/422551](https://neux.com.br/qual-e-o-nome-do-burrinho-do-desenho-shrek/)"/>
+<h1>Pessoas que vendem timer resolution modificado:<h1>
+<img width="80%" src="https://github.com/silvatweaks1/Latency-And-Fps/assets/57302024/c9b15102-91e0-4943-b8fb-8c97bb223900" alt="Shrek 2" />
