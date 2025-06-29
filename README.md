@@ -6,7 +6,7 @@ Boa, boa guys! Silva tweaks aqui, então fiz esse POST-INSTALL pra ajudar todos 
 
 ## <span style="color:green">Download & video</span>
 
-- [Post Install](https://bit.ly/44D38I1)
+- [Post Install](https://drive.google.com/file/d/1Jfks8DJayqQfoLPAqqpBzEaPc1Xk2nur/view)
 - [Download](https://bit.ly/3QGo0Zb) (Password: 123)
 
 ## <span style="color:green">Pessoas que vendem timer resolution modificado</span>:
